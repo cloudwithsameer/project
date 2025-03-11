@@ -1,1 +1,2 @@
 print ("hello world")
+functuanilly calculating fee -->DAY2
